@@ -1,0 +1,2 @@
+# Keep Go sources LF on all platforms (optional but helps Windows/Linux diffs)
+*.go text eol=lf

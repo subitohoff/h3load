@@ -1,0 +1,23 @@
+# Markdown files used for local development
+*.md
+!README.md
+
+# Binaries
+*.exe
+*.test
+
+# Go workspace
+go.work
+go.work.sum
+
+# Environment
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
